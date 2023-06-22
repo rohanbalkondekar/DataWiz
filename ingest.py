@@ -341,7 +341,7 @@ def ingestWebpage(links):
 
 
 # ─── For Youtube Videos ───────────────────────────────────────────────────────
-api_key = "AIzaSyCxJAQ-vHPQ057waX2X48Q-X_FUGLbtVe8"
+api_key = " " #use your youtube api key here
 
 
 def ingest_youtube_video(links):
